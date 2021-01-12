@@ -4,3 +4,12 @@
 my_list_1 = [2, 5, 8, 2, 12, 12, 4]
 my_list_2 = [2, 7, 12, 3]
 '''
+#my_list_1 = [0, 6, 9, 1, 12, 12, 4]
+#my_list_2 = [2, 7, 12, 3]
+
+my_list_1 = [2, 5, 8, 8, 2, 2, 12, 12, 4]
+my_list_2 = [2, 7, 12, 3]
+for val in my_list_1[:]:
+    if val in my_list_2:
+        my_list_1.remove(val)
+print(my_list_1)

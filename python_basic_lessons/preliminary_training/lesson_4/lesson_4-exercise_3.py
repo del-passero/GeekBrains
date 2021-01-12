@@ -7,3 +7,10 @@ my_list_1 = [2, 2, 5, 12, 8, 2, 12]
 В этом случае ответ будет:
 [5, 8]
 '''
+
+my_list_1 = [2, 2, 5, 12, 8, 2, 12]
+mod_list_1 = []
+for val in my_list_1:
+   if my_list_1.count(val) == 1:
+        mod_list_1.append(val)
+print(mod_list_1)
