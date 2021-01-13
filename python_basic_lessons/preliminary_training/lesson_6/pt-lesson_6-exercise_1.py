@@ -83,13 +83,16 @@ while answer != '=':
         break
     print(f"\nПопытка №{len(lie_check_dict)+1}. {phrases[random.randint(0, 3)]} {value}")
     answer = input(f"выберите один из вариантов ответа:"
-                   f"\n'> - загаданное Вами число больше',"
-                   f"\n'< - загаданное Вами число меньше',"
-                   f"\n'= - я правильно назвал загаданное Вами число"
-                   f"\n'")
+                   f"\n> - загаданное Вами число больше,"
+                   f"\n< - загаданное Вами число меньше,"
+                   f"\n= - я правильно назвал загаданное Вами число"
+                   f"\n")
     permit_answer_more_values = [".", "Ю", ">"] # список допустимых значений "меньше" с учетом возможной неправильной раскладки
     permit_answer_less_values = [",", "Б", "<"] # список допустимых значений "больше" с учетом возможной неправильной раскладки
-    if answer.upper() in permit_answer_more_values:
+    if answer.upper() not in permit_answer_more_values and answer.upper() not in permit_answer_less_values and answer != '=':
+        print("Кажется у нас будут трудности с синхронизацией. Прочитайте внимательно.")
+        continue
+    elif answer.upper() in permit_answer_more_values:
         rand_min = value
     elif answer.upper() in permit_answer_less_values:
         rand_max = value
