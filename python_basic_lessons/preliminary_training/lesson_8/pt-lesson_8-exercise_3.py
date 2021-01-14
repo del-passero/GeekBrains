@@ -34,8 +34,8 @@ def attack(attacker, defender):
 
 i = 1
 while player["health"] > 0 and enemy["health"] > 0:
-    print(f"{i} ход!")
-    if i % 2 != 0:
+    print(f"\n{i} ход!")
+    if i % 2 != 0: # для того, чтобы поменять местами в вызываемой функции аргументы атакующего и защищающегося
         attack(player, enemy)
     else:
         attack(enemy, player)
