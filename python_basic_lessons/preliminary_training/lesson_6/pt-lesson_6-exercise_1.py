@@ -35,7 +35,7 @@ import random
 rand_min = 1
 rand_max = 100
 value = random.randint(rand_min,rand_max)
-lie_check_dict = {}
+lie_check_dict = {} # словарь для определения лжи пользователя (если он отказывается считать число угаданным)
 answer = None
 default_name = "Незнакомец" #вспомогательная 
 
