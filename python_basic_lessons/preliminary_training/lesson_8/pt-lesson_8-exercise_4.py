@@ -30,7 +30,7 @@ def damage(attacker, defender):
 def attack(attacker, defender):
     damage(attacker, defender)
     print(f"У {defender['name']} сейчас {defender['health']} здоровья")
-    defender['health'] = defender['health'] - attacker['damage']
+    defender['health'] = round(defender['health'] - attacker['damage'],1)
     print(f"Атакует {attacker['name']} и наносит {attacker['damage']} урона")
     if defender['health'] <= 0:
         print(f"{defender['name']} умер. Победил {attacker['name']}!")
