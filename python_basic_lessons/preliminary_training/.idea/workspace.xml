@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="641a7bdb-1d9c-461e-a551-1947a2b1d918" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,28 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Python.pt-lesson_8-exercise_3">
-    <configuration name="pt-lesson_4-exercise_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="preliminary_training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_4/pt-lesson_4-exercise_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.pt-lesson_8-exercise_4">
     <configuration name="pt-lesson_6-exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="preliminary_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,13 +109,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pt-lesson_8-exercise_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="preliminary_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pt-lesson_8-exercise_4" />
         <item itemvalue="Python.pt-lesson_8-exercise_3" />
         <item itemvalue="Python.pt-lesson_8-exercise_2" />
         <item itemvalue="Python.pt-lesson_8-exercise_1" />
         <item itemvalue="Python.pt-lesson_6-exercise_1" />
-        <item itemvalue="Python.pt-lesson_4-exercise_3" />
       </list>
     </recent_temporary>
   </component>
@@ -159,38 +158,46 @@
       <option name="project" value="LOCAL" />
       <updated>1610630258198</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Обновлено решение 3, начал решение задачи 4 (упражнение 8)">
+      <created>1610640194327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610640194327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлены решения задач 1, 2 и 3 для урока 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлены решения задач 1, 2 и 3 для урока 8" />
+    <MESSAGE value="Обновлено решение 3, начал решение задачи 4 (упражнение 8)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновлено решение 3, начал решение задачи 4 (упражнение 8)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="583" y="176" key="CommitChangelistDialog2" timestamp="1610640193358">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="583" y="176" key="CommitChangelistDialog2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610640193358" />
-    <state width="1899" height="324" key="GridCell.Tab.0.bottom" timestamp="1610632407056">
+    <state width="1899" height="324" key="GridCell.Tab.0.bottom" timestamp="1610687285739">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
-    <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610632407056" />
-    <state width="1899" height="324" key="GridCell.Tab.0.center" timestamp="1610632407056">
+    <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687285739" />
+    <state width="1899" height="324" key="GridCell.Tab.0.center" timestamp="1610687285739">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
-    <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610632407056" />
-    <state width="1899" height="324" key="GridCell.Tab.0.left" timestamp="1610632407056">
+    <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687285739" />
+    <state width="1899" height="324" key="GridCell.Tab.0.left" timestamp="1610687285739">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
-    <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610632407056" />
-    <state width="1899" height="324" key="GridCell.Tab.0.right" timestamp="1610632407056">
+    <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687285739" />
+    <state width="1899" height="324" key="GridCell.Tab.0.right" timestamp="1610687285739">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
-    <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610632407056" />
+    <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687285739" />
     <state width="1899" height="396" key="GridCell.Tab.1.bottom" timestamp="1610542331314">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>

@@ -11,16 +11,24 @@
 import random
 
 player = {"name": input("Введите имя игрока: "),
-          "health": random.randint(90, 110)}
+          "health": random.randint(90, 110),
+          "armor": random.uniform(0.9, 1.3)}
 
 enemy = {"name": input("Введите имя врага: "),
-         "health": random.randint(90, 110)}
+         "health": random.randint(90, 110),
+         "armor": random.uniform(0.9, 1.3)}
 
 # print('Создан игрок: ', player)
 # print('Создан враг: ', enemy)
 
+
+def damage(attacker, defender):
+    attacker['damage'] = round(random.randint(45, 55) / defender['armor'],1) #урон должен быть разным на каждом ходу, поэтому первичное значение урона - рандомное
+    return attacker['damage']
+
+
 def attack(attacker, defender):
-    attacker['damage'] = random.randint(45, 55) #урон должен быть разным на каждом ходу
+    damage(attacker, defender)
     print(f"У {defender['name']} сейчас {defender['health']} здоровья")
     defender['health'] = defender['health'] - attacker['damage']
     print(f"Атакует {attacker['name']} и наносит {attacker['damage']} урона")
@@ -29,9 +37,7 @@ def attack(attacker, defender):
     else:
         print(f"Уровень здоровья игрока {defender['name']} теперь составляет {defender['health']}")
 
-def
 
-    damage / armor
 #attack(player, enemy)
 
 i = 1
