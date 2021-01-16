@@ -23,6 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.pt-lesson_8-exercise_4">
     <configuration name="pt-lesson_6-exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -185,6 +186,7 @@
     <state x="583" y="176" key="CommitChangelistDialog2" timestamp="1610687349537">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
+<<<<<<< Updated upstream
     <state x="583" y="176" key="CommitChangelistDialog2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687349537" />
     <state width="1899" height="324" key="GridCell.Tab.0.bottom" timestamp="1610687449657">
       <screen x="0" y="0" width="1920" height="1160" />
@@ -206,6 +208,29 @@
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687449657" />
+=======
+    <state x="583" y="176" key="CommitChangelistDialog2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610547876147" />
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1610567158659">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610546142464" />
+    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610567158659" />
+    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1610567158658">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610546142464" />
+    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610567158658" />
+    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1610567158658">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610546142464" />
+    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610567158658" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1610567158659">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610546142464" />
+    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610567158659" />
+>>>>>>> Stashed changes
     <state width="1899" height="396" key="GridCell.Tab.1.bottom" timestamp="1610542331314">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -222,9 +247,20 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="396" key="GridCell.Tab.1.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610542331313" />
+<<<<<<< Updated upstream
     <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610598719917">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610598719917" />
+=======
+    <state x="781" y="342" key="SettingsEditor" timestamp="1610566240083">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1610566240083" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1610566216999">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1610566216999" />
+>>>>>>> Stashed changes
   </component>
 </project>
