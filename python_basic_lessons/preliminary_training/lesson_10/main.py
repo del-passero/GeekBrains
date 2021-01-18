@@ -9,7 +9,7 @@ import randomlist
 
 from folders import create_dirs, remove_dirs
 
-create_dirs()
-remove_dirs()
+#create_dirs()
+#remove_dirs()
 print(randomlist.get_random_choise([1, 2, 3, 4, "Микола", "Петро"]))
 print(randomlist.get_random_choise([]))
