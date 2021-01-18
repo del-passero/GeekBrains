@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="641a7bdb-1d9c-461e-a551-1947a2b1d918" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_10/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_10/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1n09w7maIk7OQNlqIBlgtOypjfw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,11 +23,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/untitled4/test.py" />
   </component>
-  <component name="RunManager" selected="Python.pt-lesson_8-exercise_4">
-    <configuration name="pt-lesson_6-exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="preliminary_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -34,11 +34,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_6" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_6/pt-lesson_6-exercise_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_10/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pt-lesson_8-exercise_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tesy222" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="preliminary_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/untitled3" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_4.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/untitled3/tesy222.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pt-lesson_8-exercise_4" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.tesy222" />
         <item itemvalue="Python.pt-lesson_8-exercise_3" />
         <item itemvalue="Python.pt-lesson_8-exercise_2" />
         <item itemvalue="Python.pt-lesson_8-exercise_1" />
-        <item itemvalue="Python.pt-lesson_6-exercise_1" />
       </list>
     </recent_temporary>
   </component>
@@ -159,78 +159,42 @@
       <option name="project" value="LOCAL" />
       <updated>1610630258198</updated>
     </task>
-    <task id="LOCAL-00002" summary="Обновлено решение 3, начал решение задачи 4 (упражнение 8)">
-      <created>1610640194327</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1610640194327</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Обновлено решение 4 (упражнение 8)">
-      <created>1610687350569</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1610687350569</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавлены решения задач 1, 2 и 3 для урока 8" />
-    <MESSAGE value="Обновлено решение 3, начал решение задачи 4 (упражнение 8)" />
-    <MESSAGE value="Обновлено решение 4 (упражнение 8)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновлено решение 4 (упражнение 8)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлены решения задач 1, 2 и 3 для урока 8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="583" y="176" key="CommitChangelistDialog2" timestamp="1610687349537">
+    <state x="583" y="176" key="CommitChangelistDialog2" timestamp="1610640193358">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-<<<<<<< Updated upstream
-    <state x="583" y="176" key="CommitChangelistDialog2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687349537" />
-    <state width="1899" height="324" key="GridCell.Tab.0.bottom" timestamp="1610687449657">
+    <state x="583" y="176" key="CommitChangelistDialog2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610640193358" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1610945235148">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945235148" />
+    <state width="1899" height="324" key="GridCell.Tab.0.bottom" timestamp="1610945371260">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
-    <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687449657" />
-    <state width="1899" height="324" key="GridCell.Tab.0.center" timestamp="1610687449657">
+    <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371260" />
+    <state width="1899" height="324" key="GridCell.Tab.0.center" timestamp="1610945371259">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
-    <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687449657" />
-    <state width="1899" height="324" key="GridCell.Tab.0.left" timestamp="1610687449657">
+    <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371259" />
+    <state width="1899" height="324" key="GridCell.Tab.0.left" timestamp="1610945371259">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
-    <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687449657" />
-    <state width="1899" height="324" key="GridCell.Tab.0.right" timestamp="1610687449657">
+    <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371259" />
+    <state width="1899" height="324" key="GridCell.Tab.0.right" timestamp="1610945371260">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
-    <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610687449657" />
-=======
-    <state x="583" y="176" key="CommitChangelistDialog2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610547876147" />
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1610567158659">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610546142464" />
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610567158659" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1610567158658">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610546142464" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610567158658" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1610567158658">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610546142464" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610567158658" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1610567158659">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610546142464" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610567158659" />
->>>>>>> Stashed changes
+    <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371260" />
     <state width="1899" height="396" key="GridCell.Tab.1.bottom" timestamp="1610542331314">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -247,20 +211,9 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="396" key="GridCell.Tab.1.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610542331313" />
-<<<<<<< Updated upstream
-    <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610598719917">
+    <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610945171341">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
-    <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610598719917" />
-=======
-    <state x="781" y="342" key="SettingsEditor" timestamp="1610566240083">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1610566240083" />
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1610566216999">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1610566216999" />
->>>>>>> Stashed changes
+    <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945171341" />
   </component>
 </project>
