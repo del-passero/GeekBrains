@@ -24,6 +24,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/untitled4/test.py" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -171,30 +172,35 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="583" y="176" key="CommitChangelistDialog2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610640193358" />
-    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1610945235148">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="987" y="403" key="FileChooserDialogImpl" timestamp="1611163923147">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945235148" />
-    <state width="1899" height="324" key="GridCell.Tab.0.bottom" timestamp="1610945371260">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="987" y="403" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611163923147" />
+    <state width="2539" height="131" key="GridCell.Tab.0.bottom" timestamp="1611163568149">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371260" />
-    <state width="1899" height="324" key="GridCell.Tab.0.center" timestamp="1610945371259">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="2539" height="131" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611163568149" />
+    <state width="2539" height="131" key="GridCell.Tab.0.center" timestamp="1611163568149">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371259" />
-    <state width="1899" height="324" key="GridCell.Tab.0.left" timestamp="1610945371259">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="2539" height="131" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611163568149" />
+    <state width="2539" height="131" key="GridCell.Tab.0.left" timestamp="1611163568149">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371259" />
-    <state width="1899" height="324" key="GridCell.Tab.0.right" timestamp="1610945371260">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state width="2539" height="131" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611163568149" />
+    <state width="2539" height="131" key="GridCell.Tab.0.right" timestamp="1611163568149">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371260" />
+    <state width="2539" height="131" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611163568149" />
     <state width="1899" height="396" key="GridCell.Tab.1.bottom" timestamp="1610542331314">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
@@ -211,9 +217,18 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="396" key="GridCell.Tab.1.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610542331313" />
-    <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610945171341">
-      <screen x="0" y="0" width="1920" height="1160" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1611163927201">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1611163927201" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1611163647506">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1611163647506" />
+    <state x="1025" y="599" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611163562792">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="769" y="496" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945171341" />
+    <state x="1025" y="599" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1611163562792" />
   </component>
 </project>
