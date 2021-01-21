@@ -3,9 +3,8 @@
 Например, пользователь ввёл число 3. Считаем 3 + 33 + 333 = 369.
 '''
 n = input("Введите число n - ")
-print(len(n))
-while not n.isdigit() and len(n) != 1:
-    n = input("Введите число n - ")
+while len(n) != 1 or not n.isdigit():
+    n = input("Введите число n (одну цифру, не две, не три цифры и не букву, а именно одну цифру) - ")
 
 amount = (int(n) + int(str(n) + str(n)) + int(str(n) + str(n)+ str(n)))
-print(f"Сумма чисел n + nn + nnn составляет {amount}")
+print(f"Ура, заработало! Сумма чисел n + nn + nnn составляет {amount}")

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="641a7bdb-1d9c-461e-a551-1947a2b1d918" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_10/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_10/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +22,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/untitled4/test.py" />
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.quadratic_equations">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="preliminary_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -40,27 +38,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_10/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pt-lesson_8-exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="preliminary_training" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_8/pt-lesson_8-exercise_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,6 +88,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="quadratic_equations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="preliminary_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="G:/7.Development/Attempts/training" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="G:/7.Development/Attempts/training/quadratic_equations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tesy222" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="preliminary_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quadratic_equations" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.tesy222" />
         <item itemvalue="Python.pt-lesson_8-exercise_3" />
         <item itemvalue="Python.pt-lesson_8-exercise_2" />
-        <item itemvalue="Python.pt-lesson_8-exercise_1" />
       </list>
     </recent_temporary>
   </component>
@@ -172,35 +170,30 @@
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="583" y="176" key="CommitChangelistDialog2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610640193358" />
-    <state x="987" y="403" key="FileChooserDialogImpl" timestamp="1611164211005">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="740" y="334" key="FileChooserDialogImpl" timestamp="1610945235148">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state x="740" y="334" key="FileChooserDialogImpl/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945235148" />
-    <state x="987" y="403" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611164211005" />
-    <state width="2539" height="131" key="GridCell.Tab.0.bottom" timestamp="1611163568149">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1899" height="324" key="GridCell.Tab.0.bottom" timestamp="1610945371260">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371260" />
-    <state width="2539" height="131" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611163568149" />
-    <state width="2539" height="131" key="GridCell.Tab.0.center" timestamp="1611163568149">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1899" height="324" key="GridCell.Tab.0.center" timestamp="1610945371259">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371259" />
-    <state width="2539" height="131" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611163568149" />
-    <state width="2539" height="131" key="GridCell.Tab.0.left" timestamp="1611163568149">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1899" height="324" key="GridCell.Tab.0.left" timestamp="1610945371259">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371259" />
-    <state width="2539" height="131" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611163568149" />
-    <state width="2539" height="131" key="GridCell.Tab.0.right" timestamp="1611163568149">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1899" height="324" key="GridCell.Tab.0.right" timestamp="1610945371260">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
     <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@-1920.-84.1920.1040" timestamp="1610629044467" />
     <state width="1899" height="324" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1610945371260" />
-    <state width="2539" height="131" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611163568149" />
     <state width="1899" height="396" key="GridCell.Tab.1.bottom" timestamp="1610542331314">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
