@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a25c84f3-c94b-415c-873c-bb07af359cc7" name="Default Changelist" comment="" />
+    <list default="true" id="a25c84f3-c94b-415c-873c-bb07af359cc7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +25,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.task_6">
     <configuration name="pt-lesson_2-exercise_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_basic_lessons" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -45,8 +47,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_basic_lessons" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_1/task_6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_6" />
         <item itemvalue="Python.pt-lesson_2-exercise_1" />
       </list>
     </recent_temporary>
@@ -83,29 +107,38 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1611165482676" />
-    <state width="2539" height="401" key="GridCell.Tab.0.bottom" timestamp="1611165920561">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom" timestamp="1611243684915">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="1899" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1611243684915" />
     <state width="2539" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611165920561" />
-    <state width="2539" height="401" key="GridCell.Tab.0.center" timestamp="1611165920561">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1899" height="321" key="GridCell.Tab.0.center" timestamp="1611243684915">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="1899" height="321" key="GridCell.Tab.0.center/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1611243684915" />
     <state width="2539" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611165920561" />
-    <state width="2539" height="401" key="GridCell.Tab.0.left" timestamp="1611165920560">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1899" height="321" key="GridCell.Tab.0.left" timestamp="1611243684915">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="1899" height="321" key="GridCell.Tab.0.left/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1611243684915" />
     <state width="2539" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611165920560" />
-    <state width="2539" height="401" key="GridCell.Tab.0.right" timestamp="1611165920561">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1899" height="321" key="GridCell.Tab.0.right" timestamp="1611243684915">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state width="1899" height="321" key="GridCell.Tab.0.right/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1611243684915" />
     <state width="2539" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611165920561" />
     <state x="781" y="342" key="SettingsEditor" timestamp="1611165545772">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="781" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1611165545772" />
-    <state x="1089" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611165548191">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="655" y="403" key="com.intellij.ide.util.TipDialog" timestamp="1611550935491">
+      <screen x="0" y="0" width="1920" height="1160" />
     </state>
+    <state x="655" y="403" key="com.intellij.ide.util.TipDialog/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1611550935491" />
+    <state x="817" y="511" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611550946044">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="817" y="511" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1160/-1920.-84.1920.1040@0.0.1920.1160" timestamp="1611550946044" />
     <state x="1089" y="617" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1611165548191" />
   </component>
 </project>
