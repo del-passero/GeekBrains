@@ -19,42 +19,34 @@
 }
 '''
 
+# было бы замечательно, если бы на разборе ДЗ показали как написать подобную программу без использования break
+# вероятно я снова злоупотребил break и сontinue, но как сделать без них (с учетом желетельности ввода Enter польховталем) не очень представляю
+
 goods = []
-features = {'name': '', 'price': '', 'quantity': '', 'unit': ''}
-analytics = {'name': [], 'price': [], 'quantity': [], 'unit': []}
+dict_frame = {'Наименование': '', 'Стоимость': '', 'Кол-во': '', 'Ед. изм.': ''}
+dict_analytics = {'Наименование': [], 'Стоимость': [], 'Кол-во': [], 'Ед. изм.': []}
 num = 0
-feature_ = None
-control = None
+dict_option = None # непосредствнно для ввода значений
+answer = None # для диалога с пользователем (чтобы он мог выйти в любой момент или провести аналитику)
+permit_answer_values = ["Q", "Й", "A", "Ф", "F", "А"]  # список допустимых значений с учетом возможной неправильной раскладки
+
 while True:
-    control = input("For quit press 'Q', for continue press 'Enter', for analytics press 'A'").upper()
-    if control == 'Q':
+    answer = input("\nДля ввода значений нажмите 'Enter', для проведения аналитики нажите 'A'(Analytics). Для выхода из программы нажмите 'Q' (Quite): ")
+    if answer.upper() not in permit_answer_values and answer != '':
+        print("Прочитайте внимательно!!!")
+        continue
+    if answer.upper() == 'Q' or answer.upper() == 'Й':
+        print("До свидания!")
         break
     num += 1
-    if control == 'A':
-        print(f'\n Current analytics \n {"-" * 30}')
-        for key, value in analytics.items():
-            print(f'{key[:25]:>30}: {value}')
-            print("-" * 30)
-    for f in features.keys():
-        feature_ = input(f'Input feature "{f}"')
-        features[f] = int(feature_) if (f == 'price' or f == 'quantity') else feature_
-        analytics[f].append(features[f])
-    goods.append((num, features))
+    if answer.upper() == 'A' or answer.upper() == 'Ф' or answer.upper() == 'F' or answer.upper() == 'А':
+        print(f'\nВаши данные проанализированы:')
+        for key, value in dict_analytics.items():
+            print(f'{key[:25]}: {value}')
+        continue # чтобы была возможность выйти из цикла не вводя заново
+    for f in dict_frame.keys():
+        dict_option = input(f'Введите "{f}": ') # тут конечно можно было бы еще для цены и количества ввести доп. проверку на корректность ввода,но в условии такого нет
+        dict_frame[f] = dict_option
+        dict_analytics[f].append(dict_frame[f])
+    goods.append((num, dict_frame))
 
-'''
-goods = int(input("Введите количество товара "))
-n = 1
-my_dict = []
-my_list = []
-my_analys = {}
-while n <= goods:
-    my_dict = dict({'название': input("введите название "), 'цена': input("Введите цену "),
-                    'количество': input('Введите количество '), 'eд': input("Введите единицу измерения ")})
-    my_list.append((n, my_dict))
-    n += 1
-    my_analys = dict(
-        {'название': my_dict.get('название'), 'цена': my_dict.get('цена'), 'количество': my_dict.get('количество'),
-         'ед': my_dict.get('ед')})
-print(my_list)
-print(my_analys)
-'''
