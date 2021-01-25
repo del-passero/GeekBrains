@@ -36,7 +36,7 @@ while number != "00":
             elif my_list[-1] > number: #сравниваем с последней позицией в списке
                 my_list.append(number)
                 break
-            elif my_list[values + 1] < number < my_list[values]: #перебираем сравниваем с соседними с двух сторон значениями (надо чтобы )
+            elif my_list[values + 1] < number < my_list[values]: #перебираем сравниваем с соседними с двух сторон значениями
                 my_list.insert(values + 1, number)
                 break
     print(f"А сейчас рейтинг такой {my_list}")
