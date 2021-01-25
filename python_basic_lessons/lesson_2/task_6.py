@@ -42,7 +42,7 @@ while True:
     if answer.upper() == 'A' or answer.upper() == 'Ф' or answer.upper() == 'F' or answer.upper() == 'А':
         print(f'\nВаши данные проанализированы:')
         for key, value in dict_analytics.items():
-            print(f'{key[:25]}: {value}')
+            print(f'{key[:]}: {value}')
         continue # чтобы была возможность выйти из цикла не вводя заново
     for f in dict_frame.keys():
         dict_option = input(f'Введите "{f}": ') # тут конечно можно было бы еще для цены и количества ввести доп. проверку на корректность ввода,но в условии такого нет

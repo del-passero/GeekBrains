@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a25c84f3-c94b-415c-873c-bb07af359cc7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson_2/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/task_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -167,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611572609974</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Решено задание 6">
+      <created>1611576777864</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611576777864</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -183,6 +189,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="созданы файлы для решения задач второго урока" />
     <MESSAGE value="Сделаны задания 1-5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Сделаны задания 1-5" />
+    <MESSAGE value="Решено задание 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Решено задание 6" />
   </component>
 </project>
