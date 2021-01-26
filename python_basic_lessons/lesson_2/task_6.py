@@ -50,3 +50,4 @@ while True:
         dict_analytics[f].append(dict_frame[f])
     goods.append((num, dict_frame))
 
+#        if (f == 'price' or f == 'quantity') потом допилить проверку количества и цены

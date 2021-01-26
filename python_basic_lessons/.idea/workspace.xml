@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a25c84f3-c94b-415c-873c-bb07af359cc7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_2/task_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/task_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_2/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_2/task_6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_basic_lessons" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +59,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2/task_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson_2/task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,10 +134,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.task_6" />
+        <item itemvalue="Python.task_2" />
         <item itemvalue="Python.task_5" />
         <item itemvalue="Python.pt-lesson_6-exercise_1" />
         <item itemvalue="Python.task_4" />
-        <item itemvalue="Python.task_3" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611577757815</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Исправлено задание 5">
+      <created>1611579392380</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611579392380</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -199,6 +206,7 @@
     <MESSAGE value="Сделаны задания 1-5" />
     <MESSAGE value="Решено задание 6" />
     <MESSAGE value="Исправлено задание 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Исправлено задание 6" />
+    <MESSAGE value="Исправлено задание 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Исправлено задание 5" />
   </component>
 </project>
