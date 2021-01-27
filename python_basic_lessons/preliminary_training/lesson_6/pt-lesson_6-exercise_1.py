@@ -102,3 +102,4 @@ while answer != '=':
         value += 1
 else:
     print (f"{greeting}, я справился за {len(lie_check_dict)+1} попыток. {phrases_win}")
+
