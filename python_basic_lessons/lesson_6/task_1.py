@@ -1,4 +1,5 @@
-'''1. Создать класс TrafficLight (светофор) и определить у него один атрибут color (цвет) и метод running (запуск).
+'''
+1. Создать класс TrafficLight (светофор) и определить у него один атрибут color (цвет) и метод running (запуск).
 Атрибут реализовать как приватный. В рамках метода реализовать переключение светофора в режимы: красный, желтый, зеленый.
 Продолжительность первого состояния (красный) составляет 7 секунд, второго (желтый) — 2 секунды, третьего (зеленый) — на ваше усмотрение.
 Переключение между режимами должно осуществляться только в указанном порядке (красный, желтый, зеленый).
@@ -7,29 +8,46 @@
 '''
 
 import time
-
+import ctypes
+kernel32 = ctypes.windll.kernel32
+kernel32.SetConsoleMode(kernel32.GetStdHandle(-11), 7)
 
 class TrafficLight:
-    __color = 'red'
+    __color = ""
+    it_remained = 0 # для красоты
+    i = 0
 
     def running(self):
-        print('Светофор работает')
+        while self.i < 3:
+            print('Светофор работает и будет работать пока не пройдет минимум три цикла смены цветов')
 
-        self.__color = 'red'
-        print(f'Установлен цвет: {self.__color}')
-        time.sleep(7)
+            self.__color = 'красный'
+            self.it_remained = 7
+            print(f'\033[41mСейчас установлен {self.__color} цвет.\033[0m')
+            while self.it_remained > 0:
+                print(f'\033[31mДо смены цвета осталось {self.it_remained} секунд(ы)\033[0m')
+                self.it_remained -= 1
+                time.sleep(1)
 
-        self.__color = 'yellow'
-        print(f'Установлен цвет: {self.__color}')
-        time.sleep(2)
+            self.__color = 'желтый'
+            self.it_remained = 2
+            print(f'\033[43mСейчас установлен {self.__color} цвет.\033[0m')
+            while self.it_remained > 0:
+                print(f'\033[33mДо смены цвета осталось {self.it_remained} секунд(ы)\033[0m')
+                self.it_remained -= 1
+                time.sleep(1)
 
-        self.__color = 'green'
-        print(f'Установлен цвет: {self.__color}')
-        time.sleep(5)
-
-        while True:
-            self.running()
-
+            self.__color = 'зеленый'
+            self.it_remained = 10
+            print(f'\033[42mСейчас установлен {self.__color} цвет.\033[0m')
+            while self.it_remained > 0:
+                print(f'\033[32mДо смены цвета осталось {self.it_remained} секунд(ы)\033[0m')
+                self.it_remained -= 1
+                time.sleep(1)
+            self.i += 1
 
 traff_light = TrafficLight()
-print(traff_light.running())
+traff_light.running()
+
+# к сожалению не совсем понял что имелось в виду под усложением задачи? Нужно было так описать класс, чтобы пользователь имел возможность сам вызывать цвет?
+# А потом выводить ошибку, если он цвета в неправильном порядке вызывает?
