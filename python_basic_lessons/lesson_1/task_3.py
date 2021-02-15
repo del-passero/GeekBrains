@@ -7,4 +7,5 @@ while len(n) != 1 or not n.isdigit():
     n = input("Введите число n (одну цифру, не две, не три цифры и не букву, а именно одну цифру) - ")
 
 amount = (int(n) + int(str(n) + str(n)) + int(str(n) + str(n)+ str(n)))
-print(f"Ура, заработало! Сумма чисел n + nn + nnn составляет {amount}")
+print(f"Ура, заработало! Сумма чисел n + nn + nnn составляет {amount}"
+#n+ nn+ nnn=n+10n+n+100n+10n+n=123n
